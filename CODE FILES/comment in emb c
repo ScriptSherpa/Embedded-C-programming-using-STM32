@@ -1,0 +1,12 @@
+
+#include <stdio.h>
+
+int main() {
+	printf("single line commeneting \n\r");
+	// printf("Try programiz.pro\n\r");
+	/*  printf("i am tony stark ");
+	 printf("i am iron man ");
+	*/
+	printf("multi line comment  \n\r");
+	return 0;
+}
